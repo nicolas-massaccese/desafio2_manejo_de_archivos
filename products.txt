@@ -1,0 +1,23 @@
+[
+    {
+    "id": 1,
+    "title": "zapato",
+    "price": 15000,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0517/6282/3347/products/HCAC00969021-01_720x.jpg?v=1640618168"
+    },
+
+    {
+    "id": 2,
+    "title": "cartera",
+    "price": 3000,
+    "thumbnail": "https://juanitajo.com/28715-thickbox_default/cartera-bela-grande.jpg"
+    },
+
+    {
+    "id": 3,
+    "title": "bolso",
+    "price": 5000,
+    "thumbnail": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/3cb7d75bc2a65211451e92c5381048e9/b/o/bolso-topper-tote-benito-mujer-negro-800030172704001-1.jpg"
+    }   
+   
+]
